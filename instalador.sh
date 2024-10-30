@@ -19,7 +19,7 @@ clear
 echo "Starting the installation..."
 
 # Define the URL of the script you want to download
-SCRIPT_URL="https://pastebin.com/raw/a4B9SHp4"
+SCRIPT_URL="https://github.com/op3ny/opentube/raw/refs/heads/main/pycache/%23!/bin/script.py"
 DOWNLOADED_SCRIPT="script.sh"
 
 # Download the script
