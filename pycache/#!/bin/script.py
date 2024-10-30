@@ -1,5 +1,3 @@
-#!/bin/bash
-
 clear
 echo "Wait, we are installing 42 requirements... You want some coffee?"
 echo "This can take a few minutes"
