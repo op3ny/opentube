@@ -48,4 +48,4 @@ For any support, questions, or collaboration inquiries, feel free to reach out t
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE), offering freedom to use, modify, and distribute OpenTube in your own projects.
+This project is licensed under the [MIT License](https://github.com/op3ny/opentube/blob/main/LICENSE), offering freedom to use, modify, and distribute OpenTube in your own projects.
