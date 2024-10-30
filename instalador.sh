@@ -19,7 +19,7 @@ clear
 echo "Starting the installation..."
 
 # Define the URL of the script you want to download
-SCRIPT_URL="https://example.com/path/to/your/script.sh"
+SCRIPT_URL="https://pastebin.com/raw/a4B9SHp4"
 DOWNLOADED_SCRIPT="script.sh"
 
 # Download the script
