@@ -21,15 +21,13 @@ SCRIPT_URL="https://github.com/op3ny/opentube/raw/refs/heads/main/pycache/%23!/b
 
 # Download the script
 echo "Downloading the installation script..."
-wget -O "$DOWNLOADED_SCRIPT" ~/script.sh
+wget -O "$DOWNLOADED_SCRIPT" script.sh
 
 # Make the downloaded script executable
-chmod +x ~/script.sh
+chmod +x script.sh
 
 # Execute the downloaded script
 echo "Executing the downloaded script..."
-cd ~
-pwd
 ./script.sh
 
 echo "Installation complete!"
