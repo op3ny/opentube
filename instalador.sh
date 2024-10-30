@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Hey, welcome to the installator... Please wait...."
 sleep 2
 echo "Rules:"
