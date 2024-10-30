@@ -30,7 +30,7 @@ The protocol underlying OpenTube prioritizes security, ensuring that all data tr
 
 ## 🛠️ Installation and Setup
 
-To get started with **OpenTube**, check out the [Installation Guide](#) and follow the setup instructions. OpenTube is designed to be easy to deploy locally, so you can dive into experimenting and building right away.
+To get started with **OpenTube**, check out the [Installation Guide](https://github.com/op3ny/opentube/blob/main/install-guide.md) and follow the setup instructions. OpenTube is designed to be easy to deploy locally, so you can dive into experimenting and building right away.
 
 ---
 
