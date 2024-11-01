@@ -7,7 +7,7 @@ Welcome! Follow these steps to install **OpenTube** on your system and start exp
 ## 📥 Prerequisites
 
 Ensure you have:
-- A Unix-based system (Linux, macOS)
+- A Debian-based system (Debian, etc)
 - `wget` installed for downloading files
 - Administrative permissions for installation
 
