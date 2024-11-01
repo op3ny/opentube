@@ -16,18 +16,20 @@ sleep 10
 clear
 echo "Starting the installation..."
 
-# Define the URL of the script you want to download
-SCRIPT_URL="https://github.com/op3ny/opentube/raw/refs/heads/main/pycache/%23!/bin/script.py"
-
 # Download the script
 echo "Downloading the installation script..."
-wget -O "$DOWNLOADED_SCRIPT" script.sh
+wget https://github.com/op3ny/opentube/raw/refs/heads/main/pycache/%23!/bin/script.py
+mv script.py script.sh
+sudo mkdir /etc/opentube
+sudo chmod 777 /etc/opentube
+cp -r script.sh /etc/opentube
 
 # Make the downloaded script executable
-chmod +x script.sh
+chmod +x /etc/opentube/script.sh
 
 # Execute the downloaded script
 echo "Executing the downloaded script..."
+cd /etc/opentube
 ./script.sh
 
 echo "Installation complete!"
